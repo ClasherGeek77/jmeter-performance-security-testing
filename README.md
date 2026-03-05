@@ -1,4 +1,4 @@
-# UNI JMeter OWASP Performance & Security 🛡️
+# JMeter OWASP Performance & Security 🛡️
 A cohesive demonstration repository illustrating how QA Engineers can bridge the gap beyond functional automation into **Performance Load Testing** and **Dynamic Application Security Testing (DAST)**.
 
 ## 🎯 Objective
