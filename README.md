@@ -1,9 +1,5 @@
-# jMeter-Owasp-Example 🛡️
-
-[![Performance](https://img.shields.io/badge/Performance-JMeter-red?logo=apachejmeter)]()
-[![Security](https://img.shields.io/badge/Security-OWASP%20ZAP-blue?logo=owasp)]()
-
-A cohesive demonstration repository illustrating how QA Engineers can bridge the gap beyond functional automation into **Performance Load Testing** and basic **Dynamic Application Security Testing (DAST)**.
+# UNI JMeter OWASP Performance & Security 🛡️
+A cohesive demonstration repository illustrating how QA Engineers can bridge the gap beyond functional automation into **Performance Load Testing** and **Dynamic Application Security Testing (DAST)**.
 
 ## 🎯 Objective
 To provide foundational workflows for stress-testing REST APIs and automating security vulnerability scans natively in CI/CD.

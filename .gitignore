@@ -1,0 +1,23 @@
+# JMeter
+*.jtl
+*.log
+jmeter-report-*/
+/Reports/
+bin/
+
+# OWASP ZAP
+ZAP/*.session
+ZAP/*.session.data
+ZAP/*.session.properties
+ZAP/*.session.script
+ZAP/*.html
+ZAP/*.pdf
+ZAP/2023-01-18-ZAP-Report-*/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
